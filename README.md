@@ -15,13 +15,6 @@ package manager.  Run desktop docker or dockerd.
 2. Command-line docker also?  Mac: Homebrew.  Windows: WSL.  Linux: APT, YUM.
 YMMV.
 
-# OPTIONS
-
-Set the data directory to somewhere else, where you can write:
-`export trucktrack_datadir=/opt/some/other/directory`
-
-Force reload 
-
 # RUN
 
 1. Run `./trucktrack.sh`  (Or `sh -c ./trucktrack.sh`)
